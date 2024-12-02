@@ -230,6 +230,6 @@ Jika pengguna tidak memasukan angka 1-5 maka program akan menampilkan pesan pili
 Hasil dari program tersebut :
 ![image](https://github.com/user-attachments/assets/dce84da9-b803-4d62-9569-296fb87cb6fc)
 
-Dan ini hasil flowchart nya :
+Dan ini hasil flowcahrt nya :
 ![391332795-b914dfad-54da-441e-adca-4f188ea4a3db](https://github.com/user-attachments/assets/81587a6c-959e-4d4e-90d9-285fbfdb0987)
 
