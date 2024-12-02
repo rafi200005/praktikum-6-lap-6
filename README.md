@@ -1,0 +1,1 @@
+# praktikum-6-lap-6
